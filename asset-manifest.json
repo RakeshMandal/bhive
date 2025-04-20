@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bhive-app/static/css/main.5b6ea104.css",
-    "main.js": "/bhive-app/static/js/main.0cded4f8.js",
+    "main.css": "/bhive-app/static/css/main.df142c9f.css",
+    "main.js": "/bhive-app/static/js/main.fe5c55ef.js",
     "static/media/phone-image.jpg": "/bhive-app/static/media/phone-image.03ddfee1897203aceb80.jpg",
     "static/media/Coworking-video.png": "/bhive-app/static/media/Coworking-video.24d121a180fff0c199d1.png",
     "static/media/banner-background.png": "/bhive-app/static/media/banner-background.3edcf3566fb6e7811ec0.png",
     "index.html": "/bhive-app/index.html",
-    "main.5b6ea104.css.map": "/bhive-app/static/css/main.5b6ea104.css.map",
-    "main.0cded4f8.js.map": "/bhive-app/static/js/main.0cded4f8.js.map"
+    "main.df142c9f.css.map": "/bhive-app/static/css/main.df142c9f.css.map",
+    "main.fe5c55ef.js.map": "/bhive-app/static/js/main.fe5c55ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b6ea104.css",
-    "static/js/main.0cded4f8.js"
+    "static/css/main.df142c9f.css",
+    "static/js/main.fe5c55ef.js"
   ]
 }
