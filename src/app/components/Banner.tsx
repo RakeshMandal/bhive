@@ -22,7 +22,7 @@ const Banner = () => {
       </div>
 
       <div className="relative w-full md:w-1/2 flex justify-center items-center p-6 md:p-12">
-        <div className="absolute inset-0 mx-6 md:mx-12 my-6 bg-[#FFBB00] opacity-10 rounded-3xl z-0" />
+        <div className="absolute inset-0 mx-6 md:mx-12 my-6" />
 
         <img
           src={coworkingVideo}

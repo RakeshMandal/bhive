@@ -16,7 +16,7 @@ const SpaceDetails: React.FC = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {spaces.map((space) => {
           const discount = space.day_pass_discounts_percentage?.['10'];
-          const imagePath = `${space.images?.[0] || 'fallback.png'}`;
+          const imagePath = `https://raw.githubusercontent.com/MujtabaKably/bhive-interview-project-data/refs/heads/main/${space.images?.[0] || 'fallback.png'}`;
 
           return (
             <div key={space.id} className="rounded-xl shadow-md overflow-hidden bg-white">
